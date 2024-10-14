@@ -126,7 +126,7 @@ def display_menu():
 def main():
     # Exit if no argument is supplied
     if len(sys.argv) < 2:
-        print("Usage: kornshare.py <filename>")
+        print("Usage: ezshare.py <filename>")
         sys.exit(1)
 
     # The menu loop
